@@ -1,0 +1,10 @@
+fill ~-2 ~ ~-2 ~17 ~-10 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-9 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-8 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-7 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-6 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-5 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-4 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-3 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-2 ~17 minecraft:stone
+fill ~-2 ~ ~-2 ~17 ~-1 ~17 minecraft:stone

@@ -1,0 +1,16 @@
+execute if entity @p[scores={density=1}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=1] at @s run function code:features
+execute if entity @p[scores={density=2}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=2] at @s run function code:features
+execute if entity @p[scores={density=3}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=3] at @s run function code:features
+execute if entity @p[scores={density=4}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=4] at @s run function code:features
+execute if entity @p[scores={density=5}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=5] at @s run function code:features
+execute if entity @p[scores={density=6}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=6] at @s run function code:features
+execute if entity @p[scores={density=7}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=7] at @s run function code:features
+execute if entity @p[scores={density=8}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=8] at @s run function code:features
+execute if entity @p[scores={density=9}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=9] at @s run function code:features
+execute if entity @p[scores={density=10}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=10] at @s run function code:features
+execute if entity @p[scores={density=11}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=11] at @s run function code:features
+execute if entity @p[scores={density=12}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=12] at @s run function code:features
+execute if entity @p[scores={density=13}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=13] at @s run function code:features
+execute if entity @p[scores={density=14}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=14] at @s run function code:features
+execute if entity @p[scores={density=15}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=15] at @s run function code:features
+execute if entity @p[scores={density=16}] as @e[sort=random,tag=oregen,type=minecraft:armor_stand,scores={time=100..},limit=16] at @s run function code:features

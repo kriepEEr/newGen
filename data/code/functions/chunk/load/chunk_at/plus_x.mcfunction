@@ -1,0 +1,2 @@
+execute positioned ~16 ~ ~ unless entity @e[type=text_display,distance=0..2] run summon text_display ~ ~ ~ {Passengers:[{id:"minecraft:interaction"}],text:'{"text":"Load Chunk","color":"aqua","bold":true,"italic":true}',billboard:"center"}
+execute positioned ~8 ~-8 ~-8 unless entity @e[type=marker,distance=0..2] run summon minecraft:marker ~ ~ ~
